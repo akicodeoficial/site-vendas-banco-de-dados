@@ -6,13 +6,13 @@ Este é o repositório do projeto do site de uma empresa fictícia que oferece s
 
 ### No Cabelçalho
 
-- [ ] Navbar com o Conteúdo da Página.
-- [ ] Boas Vindas ao visitante.
+- [X] Navbar com o Conteúdo da Página.
+- [X] Boas Vindas ao visitante.
 
 ### No Conteúdo Principal
 
-- [ ] Sessão de Sobre a Empresa.
-- [ ] Sessão de Serviços da Empresa.
+- [X] Sessão de Sobre a Empresa.
+- [X] Sessão de Serviços da Empresa.
 - [ ] Sessão de Empresas que contrataram os Serviços.
 - [ ] Sessão de Preços e Planos.
 
