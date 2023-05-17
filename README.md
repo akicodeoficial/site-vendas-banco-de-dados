@@ -13,7 +13,6 @@ Este é o repositório do projeto do site de uma empresa fictícia que oferece s
 
 - [X] Sessão de Sobre a Empresa.
 - [X] Sessão de Serviços da Empresa.
-- [ ] Sessão de Empresas que contrataram os Serviços.
 - [X] Sessão de Preços e Planos.
 
 ### No Rodapé
