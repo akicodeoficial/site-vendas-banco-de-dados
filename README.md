@@ -4,12 +4,20 @@ Este é o repositório do projeto do site de uma empresa fictícia que oferece s
 
 ## Conteúdo da Página
 
-- [ ] Cabeçalho.
-- [ ] Boas Vindas.
-- [ ] Sobre a Empresa.
-- [ ] Serviços da Empresa.
-- [ ] Empresas que contrataram os Serviços.
-- [ ] Preços e Planos.
+### No Cabelçalho
+
+- [ ] Navbar com o Conteúdo da Página.
+- [ ] Boas Vindas ao visitante.
+
+### No Conteúdo Principal
+
+- [ ] Sessão de Sobre a Empresa.
+- [ ] Sessão de Serviços da Empresa.
+- [ ] Sessão de Empresas que contrataram os Serviços.
+- [ ] Sessão de Preços e Planos.
+
+### No Rodapé
+- [ ] Contatos da Empresa.
 - [ ] Autores do Projeto.
 
 ## Tecnologias Utilizadas
