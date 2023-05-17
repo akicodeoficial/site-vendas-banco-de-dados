@@ -36,3 +36,7 @@ git clone https://github.com/akicodeoficial/site-vendas-banco-de-dados.git
 ```
 
 Abra o arquivo index.html em seu navegador preferido.
+
+## Captura da Tela
+
+![Screenshot](./screenshot.png)
