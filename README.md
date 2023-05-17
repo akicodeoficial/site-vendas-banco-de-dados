@@ -26,7 +26,7 @@ O projeto do site da empresa fictícia de aluguel de data center utiliza as segu
 Para executar o projeto localmente, siga as instruções abaixo:
 
 ```bash
-git clone https://github.com/akicodeoficial/projeto-site-vendas-banco-de-dados.git
+git clone https://github.com/akicodeoficial/site-vendas-banco-de-dados.git
 ```
 
 Abra o arquivo index.html em seu navegador preferido.
