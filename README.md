@@ -2,6 +2,16 @@
 
 Este é o repositório do projeto do site de uma empresa fictícia que oferece serviços de aluguel de data center com banco de dados no Brasil. Neste arquivo README, você encontrará informações importantes sobre o projeto e instruções para executá-lo localmente.
 
+## Conteúdo da Página
+
+- [ ] Cabeçalho.
+- [ ] Boas Vindas.
+- [ ] Sobre a Empresa.
+- [ ] Serviços da Empresa.
+- [ ] Empresas que contrataram os Serviços.
+- [ ] Preços e Planos.
+- [ ] Autores do Projeto.
+
 ## Tecnologias Utilizadas
 
 O projeto do site da empresa fictícia de aluguel de data center utiliza as seguintes tecnologias:
