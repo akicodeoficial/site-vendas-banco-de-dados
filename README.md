@@ -18,7 +18,7 @@ Este é o repositório do projeto do site de uma empresa fictícia que oferece s
 
 ### No Rodapé
 - [ ] Contatos da Empresa.
-- [ ] Autores do Projeto.
+- [X] Autores do Projeto.
 
 ## Tecnologias Utilizadas
 
